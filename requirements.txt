@@ -2,4 +2,4 @@ streamlit
 pandas
 scikit-learn
 lightgbm
-tensorflow>=2.16.1
+keras
